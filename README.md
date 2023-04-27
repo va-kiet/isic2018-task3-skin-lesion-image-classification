@@ -1,4 +1,4 @@
-# isic2018_task3
+# Skin lesion images classification
 * This repo was run on colab notebook.
 * Build a custom dataset and custom model to classify 7 classes of skin lesion images from [ISIC challenge 2018 task3 dataset](https://challenge.isic-archive.com/data/#2018)
 * Try to use multiple backbones and evaluate their performace.
