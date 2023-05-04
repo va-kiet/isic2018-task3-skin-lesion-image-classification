@@ -2,7 +2,7 @@
 * This repo was run on colab notebook.
 * Build a custom dataset and custom model to classify 7 classes of skin lesion images from [ISIC challenge 2018 task3 dataset](https://challenge.isic-archive.com/data/#2018)
 * Try to use multiple backbones and evaluate their performace.
-* Training phase was in 25 epochs
+* Training phase was in 25 epochs, learning rate 0.001 and using SGD with momentum optimizer for all backbone.
 
 ## ResNet101:
 * Model size: 171MB
